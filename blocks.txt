@@ -1,0 +1,82 @@
+1. Introduction
+    1. Why typescript
+    2. What is typescript
+    3. How it works (basics)
+2. Basic types
+    1. Primitive types
+    3. Array types
+    4. Structural types
+    5. Interfaces
+    6. Tuple types
+    7. Literal types
+    8. Numeric literal types
+3. Dive deep into basics
+    1. Enum
+    2. Generics
+    3. Constraints
+    4. Type Inference
+    5. Type Compatibility
+    6. Type assertion
+4. Middle types
+    1. Intersection types
+    2. Union types
+    3. Nullable
+    4. Type Guards
+    5. Enum member type
+    6. Discriminated Unions
+    7. Exhaustiveness checking
+5. Modules
+    1. ESM modules
+    2. Using declarations
+    3. Reading declarations
+    4. Extending declarations
+    5. Write/generate own declarations for libraries
+    6. Module resolution
+6. Going deeper
+    1. Polymorphic this types
+    2. Index types
+    3. Mapped types
+    4. Conditional Types
+    5. Libraries and declaration files
+    6. typeof
+    7. keyof
+7. Advanced techniques
+    1. Distributive conditional types
+    2. Type inference in conditional type
+    3. Readonly and const types
+    4. Never types
+    5. unknown
+    6. any
+    7. unknown vs any
+8. React specifics
+    1. React components types
+    2. Context
+    3. Generic types
+    4. JSX
+    5. Non React JSX
+9. More about env
+    1. Node.js with typescript
+    2. Jest with typescript
+    3. Webpack with typescript
+    4. TSLint
+10. Next level typescript
+    1. Nominal typing
+    2. Unions and Enums usage with type-safe EventEmitter
+    3. More on utility types
+    4. Optional chaining
+    5. Nullish Coalescing
+    6. Assertion functions
+    7. Recursive type aliases
+11. Advanced language features
+    1. Generators
+    2. Iterators
+    3. Tagged templates
+    4. Decorators
+    5. Mixins
+    6. Overloads
+12. Internal of compiler
+    1. AST
+    2. Writing code generator
+    3. Writing code transformer
+    4. Writing custom linter rule for typescript
+    5. Reflection api

@@ -1,0 +1,22 @@
+1. Why typescript
+    General advantages of types usage
+    Backwards comparability with JavaScript
+    Type declarations as documentation of the library
+    Future javascript
+    About we should learn some basics of JS to understand TS
+    About how TS protects from tricky things from JS (like implicit conversions)
+
+1.1 How to use typescript (just example with ts-node)
+    Just basics about tsconfig (that it tells to compiler that it is ts project)
+    About static type (try to declare var and call a function)
+    About strong type (use and combine string, number, boolean, undefined)
+    Implicit and Explicit types
+    How to declare type of variable (and function arguments)
+    How to check what implicit type is
+    Example with factorial function
+    Array types (and examples)
+    Example with array sum
+    Structural types (classes, interfaces, type aliases) (and examples)
+    Example with class function print
+    Tuple types (and examples)
+    Example with
