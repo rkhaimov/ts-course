@@ -37,7 +37,6 @@
     2. Index types
     3. Mapped types
     4. Conditional Types
-    5. Libraries and declaration files
     6. typeof
     7. keyof
 7. Advanced techniques
