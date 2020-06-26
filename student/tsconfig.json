@@ -1,0 +1,14 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../dist/student"
+  },
+  "references": [
+    {
+      "path": "../core"
+    },
+    {
+      "path": "../school"
+    }
+  ]
+}
