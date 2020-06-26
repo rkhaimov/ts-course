@@ -9,5 +9,10 @@
     {
       "path": "./student"
     }
-  ]
+  ],
+  "watchOptions": {
+    "watchFile": "useFsEvents",
+    "watchDirectory": "useFsEvents",
+    "fallbackPolling": "dynamicPriority"
+  }
 }
